@@ -1,7 +1,6 @@
 ## ¡Hola! Soy Emily Mosquera
 
 🎓 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)  
-💻 Apasionada por el desarrollo móvil y web  
 🚀 En búsqueda constante de nuevos aprendizajes
 
 ---
