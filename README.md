@@ -25,17 +25,3 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-![Emily's GitHub stats](https://github-readme-stats.vercel.app/api?username=emilymosq&show_icons=true&theme=radical)
-
----
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=emilymosq&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-✨ Gracias por visitar mi perfil ✨
